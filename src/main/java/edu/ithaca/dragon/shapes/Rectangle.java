@@ -1,15 +1,15 @@
 package edu.ithaca.dragon.shapes;
 
+//here is a comment for committing
 public class Rectangle {
     
 
     public Rectangle(double length, double width){
-        //throw new RuntimeException("Not implemented yet");
+        throw new RuntimeException("Not implemented yet");
     }
 
     public double calcArea(){
-        double Area = length * width
-       //throw new RuntimeException("Not implemented yet");
+       throw new RuntimeException("Not implemented yet");
     }
 
     public void doubleSize(){
