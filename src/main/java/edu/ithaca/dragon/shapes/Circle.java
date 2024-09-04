@@ -7,7 +7,7 @@ public class Circle {
      */
     public Circle(double radius){
         //here is a comment for committing
-        throw new RuntimeException("Not implemented yet")
+        throw new RuntimeException("Not implemented yet");
     }
 
     /**
